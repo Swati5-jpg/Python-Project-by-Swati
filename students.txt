@@ -137,5 +137,15 @@
             "Science",
             "History"
         ]
+    },
+    {
+        "id": 205,
+        "name": "Ashvik",
+        "age": 21,
+        "grade": "B",
+        "subjects": [
+            "Maths",
+            "Science"
+        ]
     }
 ]
