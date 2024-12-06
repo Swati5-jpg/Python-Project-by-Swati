@@ -122,7 +122,7 @@
         "id": 203,
         "name": "Siya",
         "age": 23,
-        "grade": "B",
+        "grade": "A",
         "subjects": [
             "English",
             "Hindi"
