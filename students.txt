@@ -117,5 +117,15 @@
         "subjects": [
             "Science"
         ]
+    },
+    {
+        "id": 203,
+        "name": "Siya",
+        "age": 23,
+        "grade": "B",
+        "subjects": [
+            "English",
+            "Hindi"
+        ]
     }
 ]
