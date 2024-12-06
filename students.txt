@@ -108,5 +108,14 @@
             "Science",
             "History"
         ]
+    },
+    {
+        "id": 202,
+        "name": "Anvi",
+        "age": 21,
+        "grade": "A",
+        "subjects": [
+            "Science"
+        ]
     }
 ]
