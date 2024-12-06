@@ -127,5 +127,15 @@
             "English",
             "Hindi"
         ]
+    },
+    {
+        "id": 204,
+        "name": "Prarthna Sharma",
+        "age": 24,
+        "grade": "C",
+        "subjects": [
+            "Science",
+            "History"
+        ]
     }
 ]
